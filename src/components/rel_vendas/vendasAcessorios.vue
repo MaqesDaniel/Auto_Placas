@@ -121,13 +121,10 @@ export default {
 }
 </script>
 
-<!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
 
 .Container{
   background-color: #D8E2EF;
-  width: 98vw;
-  height: 98vh;
   padding: 8px 6px;
 }
 .Content{
@@ -140,8 +137,9 @@ export default {
 }
 .header-title {
   font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-  font-weight: 400;
-  font-size: 24px;
+  font-weight: 500;
+  font-size: 20px;
+  color: #344050;
 }
 .card-body{
   height: 40px;
